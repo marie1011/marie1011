@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi! I am Jela Marie Dela Cruz, a Data Science student.  
+This repository is part of my academic activities.
 
 <!--
 **marie1011/marie1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
